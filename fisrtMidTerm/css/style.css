@@ -1,0 +1,29 @@
+*{
+  Margin: 0;
+}
+
+body{
+  width: 1440px;
+}
+/* Globales */
+
+h3{
+  font-weight: 100px;
+}
+
+.div{
+  text-decoration: none;
+  border-radius: 15px;
+}
+.img{
+  shape-margin: circle;
+  border-radius: 10px;
+}
+
+/* Testimonios*/
+.div-daniel{
+  background-color: #7541c8;
+  width: 720px;
+  
+
+}
